@@ -1,10 +1,6 @@
 # 💫 About Me:
 💼 I’m pursuing a dual degree in Computer Engineering and a Master’s in Data Science at the University of Chile<br>🤖 I’m interested in applying theoretical knowledge to real-world problems through machine learning model development<br>💬 Feel free to discuss with me about data science, machine learning, and real-world applications
 
-## 🌐 Socials:
-
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jiale.chen@ug.uchile.cl)
-
 
 <div align="center">
 
